@@ -1,0 +1,3 @@
+# BasicConsistentHash
+
+一致性hash算法的java简单实现
